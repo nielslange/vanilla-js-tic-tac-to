@@ -30,7 +30,7 @@ body {
 }
 
 div[data-field] {
-	aspect-ratio: 1;
+	height: 100px;
 	background: var(--nord4);
 	display: flex;
 	align-items: center;
