@@ -4,7 +4,7 @@ The classic Tic Tac Toe game implemented in Vanilla JS using State Management.
 
 ## Demo
 
-Wanna play a round? Simply head over to https://nielslange.github.io/vanilla-js-tic-tac-to/.
+Wanna play a round? Simply head over to https://nielslange.github.io/vanilla-js-tic-tac-toe/.
 
 ## Copyright
 
